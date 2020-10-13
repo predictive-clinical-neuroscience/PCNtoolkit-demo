@@ -46,7 +46,7 @@ Once you are in the Colab notebook tab, in the top right corner you will see a `
 ### Now you are ready to begin coding :brain:	:computer:! 
 ### Good luck :four_leaf_clover: and remember to have fun :smiley:! 
 
-The **template** notebook we will be filling out during this practical can be launched here (remember, you need to be signed in to a Google account in your internet browser, for best results, use Chrome): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_2020/blob/master/tasks/cpc_normative_modeling_instructions.ipynb)
+The **template** notebook we will be filling out during this practical can be launched here (remember, you need to be signed in to a Google account in your internet browser, for best results, use Chrome): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/master/tasks/cpc_normative_modeling_instructions.ipynb)
 
-If you get stuck and need guidance, there is a filled out answer key :key: notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_2020/blob/master/tasks_key/key_cpc_machinelearning.ipynb)
+If you get stuck and need guidance, there is a filled out answer key :key: notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/master/tasks_key/key_cpc_machinelearning.ipynb)
 
