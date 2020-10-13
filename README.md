@@ -1,4 +1,4 @@
-# Normative Modeling Practical CPC 2020
+# Demonstration of normative modelling using PCNtoolkit
 This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) on September 12th, 2020.
 
 This repository is a group effort by [Thomas Wolfers](https://twitter.com/ThomasWolfers), [Saige Rutherford](https://twitter.com/being_saige), and [Mariam Zabihi](https://twitter.com/m_zabihi).
