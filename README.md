@@ -41,10 +41,11 @@ Once you are in the Colab notebook tab, in the top right corner you will see a `
 
 :arrow_right: In the Colab python notebook, there are 2 types of cells: text cells & ```code cells```. The text cells have plain text in them, that the notebook will not interpret as code. These are the cells that contain the background story & task instructions. The ```code``` cells have a :arrow_forward: play button on the left side. These are the cells that the notebook will run as code. To run a ```code cell```, you can either click on the play button :arrow_forward: on the left side or use ‘Shift + Enter’ (your cursor must be inside the code cell). 
  
-### Now you are ready to begin coding :brain:	:computer:! 
-### Good luck :four_leaf_clover: and remember to have fun :smiley:! 
+### For learning purposes:
 
 The **template** notebook we will be filling out during this practical can be launched here (remember, you need to be signed in to a Google account in your internet browser, for best results, use Chrome): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tasks/normative_modeling_exercise.ipynb)
 
-If you get stuck and need guidance, there is a filled out answer key :key: notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tasks_key/normative_modelling_walkthrough.ipynb)
+### For a walk-through of the analysis:
+
+For a walkthrough of the analytic pipeline (with all code cells completed) please use this notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tasks_key/normative_modelling_walkthrough.ipynb)
 
