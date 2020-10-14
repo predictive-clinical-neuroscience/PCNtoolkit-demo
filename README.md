@@ -43,9 +43,9 @@ Once you are in the Colab notebook tab, in the top right corner you will see a `
  
 ### For learning purposes:
 
-Remember, you need to be signed in to a Google account in your internet browser and for best results, use Chrome
-
 A **template** notebook that can be used as a practical exercise can be launched here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tasks/normative_modeling_exercise.ipynb)
+
+Remember, you need to be signed in to a Google account in your internet browser and for best results, use Chrome
 
 ### For a walk-through of the analysis:
 
