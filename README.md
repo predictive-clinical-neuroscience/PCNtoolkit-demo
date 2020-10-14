@@ -43,9 +43,9 @@ Once you are in the Colab notebook tab, in the top right corner you will see a `
  
 ### For learning purposes:
 
-The **template** notebook we will be filling out during this practical can be launched here (remember, you need to be signed in to a Google account in your internet browser, for best results, use Chrome): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tasks/normative_modeling_exercise.ipynb)
+A **template** notebook that can be completed as a practical exercise can be launched here (remember, you need to be signed in to a Google account in your internet browser, for best results, use Chrome): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tasks/normative_modeling_exercise.ipynb)
 
 ### For a walk-through of the analysis:
 
-For a walkthrough of the analytic pipeline (with all code cells completed) please use this notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tasks_key/normative_modelling_walkthrough.ipynb)
+For a fully completed walkthrough of the analytic pipeline (with all code cells already completed) please use this notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tasks_key/normative_modelling_walkthrough.ipynb)
 
