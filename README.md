@@ -15,4 +15,4 @@ Other helpful links if you are new to using the Pandas python library:
 
 When you are ready to run the analysis, you can launch the notebook below by clicking the 'Open in Colab' button. You need to be signed in to a Google account in your internet browser and for best results, use Chrome web browser.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tasks_key/normative_modelling_walkthrough.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/PCNtoolkit-demo/blob/NormativeModelTutorial.ipynb)
