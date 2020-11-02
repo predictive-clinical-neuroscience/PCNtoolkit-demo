@@ -14,8 +14,13 @@ Other helpful links if you are new to using the Pandas python library:
 
 
 When you are ready to run the analysis, you can launch the notebooks below by clicking the 'Open in Colab' button. You need to be signed in to a Google account in your internet browser and for best results, use Chrome web browser. We have split the tutorial into two parts:
+
+
 **NormativeModelTutorialPart1** contains the necessary commands for data extraction, preprocessing, formatting, visualization, quality checking, creating train/test splits, etc. 
+
+
 **NormativeModelTutorialPart1** contains the code for running the normative model. If you wish to skip learning about data prep, you may go directly to notebook part 2. 
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/NormativeModelTutorialPart1.ipynb)
 
