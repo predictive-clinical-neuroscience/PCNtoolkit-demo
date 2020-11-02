@@ -1,6 +1,10 @@
 # Normative modelling demo with PCNtoolkit
 This repository contains a walk through of a normative modelling analytic pipeline using cortical thickness data from several public datasets. 
 
+<div>
+<img src="data/NormModelSetup.png" width="500"/>
+</div>
+
 We will be running all of our code in Google Colab python notebooks. These are essentially Jupyter notebooks run in the :cloud: *cloud* :cloud:. 
 Running our code using Colab will save us from dealing with python library installation and virtual environment setup. 
 
