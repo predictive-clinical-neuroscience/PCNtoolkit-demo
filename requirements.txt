@@ -3,5 +3,4 @@ numpy
 matplotlib
 sklearn
 joypy
-os
 pcntoolkit
