@@ -26,9 +26,9 @@ When you are ready to run the analysis, you can launch the notebooks below by cl
 We have split the ROI-level cortical thickness tutorial into two parts:
 
 
-**NormativeModelTutorialPart1** contains the necessary commands for data extraction, preprocessing, formatting, visualization, quality checking, creating train/test splits, etc. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/main/tutorials/ROI_blr_cortthick/NormativeModelTutorialPart1.ipynb)
+**NormativeModelTutorialPart1** contains the necessary commands for data extraction, preprocessing, formatting, visualization, quality checking, creating train/test splits, etc. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tutorials/ROI_blr_cortthick/NormativeModelTutorialPart1.ipynb)
 
 
-**NormativeModelTutorialPart2** contains the code for running the normative model. If you wish to skip learning about data prep, you may go directly to notebook part 2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/main/tutorials/ROI_blr_cortthick/NormativeModelTutorialPart2.ipynb)
+**NormativeModelTutorialPart2** contains the code for running the normative model. If you wish to skip learning about data prep, you may go directly to notebook part 2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tutorials/ROI_blr_cortthick/NormativeModelTutorialPart2.ipynb)
 
 **NormativeModelTutorialPart3** coming soon...contains code for visualization of models.
