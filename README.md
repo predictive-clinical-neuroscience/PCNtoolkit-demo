@@ -1,9 +1,14 @@
 # Normative modelling demo with PCNtoolkit
-This repository contains a walk through of a normative modelling analytic pipeline using cortical thickness data from several public datasets. 
+This repository contains tutorials on normative modelling using public (multi-site) datasets. 
 
 <div>
 <img src="data/NormModelSetup.png" width="500"/>
 </div>
+
+
+`tutorials/` --> Contains the Python notebooks for the tutorials. 2020 virtual computational psychiatry course tutorial and a tutorial using Bayesian linear regression (blr) with ROI-level cortical thickness data extracted from the Killiany/Desikan parcellation atlas.
+
+`data/` --> Contains the data used in the tutorials.
 
 We will be running all of our code in Google Colab python notebooks. These are essentially Jupyter notebooks run in the :cloud: *cloud* :cloud:. 
 Running our code using Colab will save us from dealing with python library installation and virtual environment setup. 
@@ -17,10 +22,13 @@ Other helpful links if you are new to using the Pandas python library:
 4. [Short (software carpentry) pandas tutorial 2](https://swcarpentry.github.io/python-novice-gapminder/08-data-frames/index.html)
 
 
-When you are ready to run the analysis, you can launch the notebooks below by clicking the 'Open in Colab' button. You need to be signed in to a Google account in your internet browser and for best results, use Chrome web browser. We have split the tutorial into two parts:
+When you are ready to run the analysis, you can launch the notebooks below by clicking the 'Open in Colab' button. You need to be signed in to a Google account in your internet browser and for best results, use Chrome web browser. 
+We have split the ROI-level cortical thickness tutorial into two parts:
 
 
-**NormativeModelTutorialPart1** contains the necessary commands for data extraction, preprocessing, formatting, visualization, quality checking, creating train/test splits, etc. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/NormativeModelTutorialPart1.ipynb)
+**NormativeModelTutorialPart1** contains the necessary commands for data extraction, preprocessing, formatting, visualization, quality checking, creating train/test splits, etc. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/tutorials/ROI_blr_cortthick/NormativeModelTutorialPart1.ipynb)
 
 
-**NormativeModelTutorialPart2** contains the code for running the normative model. If you wish to skip learning about data prep, you may go directly to notebook part 2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/NormativeModelTutorialPart2.ipynb)
+**NormativeModelTutorialPart2** contains the code for running the normative model. If you wish to skip learning about data prep, you may go directly to notebook part 2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/tutorials/ROI_blr_cortthick/NormativeModelTutorialPart2.ipynb)
+
+**NormativeModelTutorialPart3** coming soon...contains code for visualization of models.
