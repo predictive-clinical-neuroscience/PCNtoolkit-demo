@@ -10,6 +10,8 @@ This repository contains tutorials on normative modelling using public (multi-si
 
 `data/` --> Contains the data used in the tutorials. Data created during the cortical thickness ROI tutorial will be output into this folder. 
 
+For this tutorial we will use data from the [Human Connectome Project Young Adult study](https://www.humanconnectome.org/study/hcp-young-adult), [CAMCAN](https://www.cam-can.org/), and [IXI](https://brain-development.org/ixi-dataset/) to create a multi-site dataset. For using these data we follow the origian open access data use agreements for these studies. For HCP data you must have an account at ConnectomeDB and agree to the [Open Access Data Use Terms](https://www.humanconnectome.org/study/hcp-young-adult/data-use-terms). For CAMCAN data please review and follow the data use agreement found [here](https://camcan-archive.mrc-cbu.cam.ac.uk/dataaccess/datarequest-nobutton.php). For the IXI data, it is made available under the Creative Commons CC BY-SA 3.0 license. If you use the IXI data please acknowledge the source of the IXI data, e.g. [this website](https://brain-development.org/ixi-dataset/).
+
 We will be running all of our code in Google Colab python notebooks. These are essentially Jupyter notebooks run in the :cloud: *cloud* :cloud:. 
 Running our code using Colab will save us from dealing with python library installation and virtual environment setup. 
 
