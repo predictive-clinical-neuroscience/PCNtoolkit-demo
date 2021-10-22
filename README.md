@@ -1,4 +1,7 @@
 # Normative modelling demo with PCNtoolkit
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5592153.svg)](https://doi.org/10.5281/zenodo.5592153)
+
 This repository contains tutorials on normative modelling using public (multi-site) datasets. 
 
 <div>
