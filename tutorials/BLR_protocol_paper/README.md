@@ -1,0 +1,5 @@
+# The Normative Modeling Framework for Computational Psychiatry
+
+For this tutorial we will use data from the [Human Connectome Project Young Adult study](https://www.humanconnectome.org/study/hcp-young-adult), [CAMCAN](https://www.cam-can.org/), and [IXI](https://brain-development.org/ixi-dataset/) to create a multi-site dataset. For using these data we follow the original open access data use agreements for these studies, described below. Please adhere to these data use terms. 
+
+For HCP data you must have an account at ConnectomeDB and agree to the [Open Access Data Use Terms](https://www.humanconnectome.org/study/hcp-young-adult/data-use-terms). For CAMCAN data please review and follow the data use agreement found [here](https://camcan-archive.mrc-cbu.cam.ac.uk/dataaccess/datarequest-nobutton.php). For the IXI data, it is made available under the Creative Commons CC BY-SA 3.0 license. If you use the IXI data please acknowledge the source of the IXI data, e.g. [this website](https://brain-development.org/ixi-dataset/).
