@@ -1,10 +1,10 @@
-# Normative modelling demo with PCNtoolkit
+# Normative modeling demo with PCNtoolkit
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5592153.svg)](https://doi.org/10.5281/zenodo.5592153)
 
-This repository contains tutorials on normative modeling using the [PCNtoolkit](). 
+This repository contains tutorials on normative modeling using the [PCNtoolkit](https://pcntoolkit.readthedocs.io/en/latest/). 
 
-If you use these tutorials, please cite the following:
+Please adhere to the citation guidelines availabe in each tutorial directory.
 
 
 <div>
@@ -16,7 +16,7 @@ If you use these tutorials, please cite the following:
 
 * CPC_2020: Computational Psychiatry Course 2020 tutorial using Gaussian Process Regression (GPR)
 * CPC_2021: Computational Psychiatry Course 2021 tutorial using Bayesian Linear Regression (BLR)
-* BLR_protocol: The Normative Modeling Framework for Computational Psychiatry. Rutherford et al. 2021. Under review at Nature Protocols. Preprint available via [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.08.455583v1). 
+* BLR_protocol: The Normative Modeling Framework for Computational Psychiatry. Rutherford et al. 2021. Under review at Nature Protocols. Preprint available via [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.08.455583v1).
 * HBR_FCON: A tutorial on Hierarchical Bayesian Linear Regression using FCON data (many sites).
 * For a tutorial on GAMLSS see this [repository](https://github.com/dinga92/gamlss_normative_paper) and [preprint](https://www.biorxiv.org/content/10.1101/2021.06.14.448106v1.abstract). 
 
@@ -32,8 +32,4 @@ You can also locally clone this repository to your computer, however you are res
 For additional helpful tips on setting up Google colab and using keyboard shortcuts, also see the ReadMe file for the [CPC course](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials/Comp_Psych_Course).
 
 
-When you are ready to run the analysis, you can launch the tutorial notebook by clicking the 'Open in Colab' button. You need to be signed in to a Google account in your internet browser and for best results, use Chrome web browser. 
-
-
-**Normative Model Tutorial, ROI-level Cortical Thickness** contains the necessary commands for data extraction, preprocessing, formatting, visualization, quality checking, creating train/test splits, code for running the normative model on a few ROIs. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tutorials/ROI_blr_cortthick/NormativeModelTutorial.ipynb)
-
+Each tutorial directory contains its' own ReadMe file containing specific instructions. When you are ready to run the analysis, you can launch the tutorial notebook by clicking the 'Open in Colab' button found in the tutorial's ReadMe file. You need to be signed in to a Google account in your internet browser and for best results, use Chrome web browser. 
