@@ -14,10 +14,10 @@ Please adhere to the citation guidelines availabe in each tutorial directory.
 
 `tutorials/` --> Contains the Python notebooks for all tutorials. Each tutorial is in a sub-directory within this folder. 
 
-* CPC_2020: Computational Psychiatry Course 2020 tutorial using Gaussian Process Regression (GPR)
-* CPC_2021: Computational Psychiatry Course 2021 tutorial using Bayesian Linear Regression (BLR)
-* BLR_protocol: The Normative Modeling Framework for Computational Psychiatry. Rutherford et al. 2021. Under review at Nature Protocols. Preprint available via [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.08.455583v1).
-* HBR_FCON: A tutorial on Hierarchical Bayesian Linear Regression using FCON data (many sites).
+* [CPC_2020](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials/CPC_2020): Computational Psychiatry Course 2020 tutorial using Gaussian Process Regression (GPR)
+* [CPC_2021](https://github.com/saigerutherford/CPC_ML_tutorial): Computational Psychiatry Course 2021 tutorial using Bayesian Linear Regression (BLR)
+* [BLR_protocol](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials/BLR_protocol): The Normative Modeling Framework for Computational Psychiatry. Rutherford et al. 2021. Under review at Nature Protocols. Preprint available via [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.08.455583v1).
+* [HBR_FCON](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials/HBR_FCON): A tutorial on Hierarchical Bayesian Linear Regression using FCON data (many sites).
 * For a tutorial on GAMLSS see this [repository](https://github.com/dinga92/gamlss_normative_paper) and [preprint](https://www.biorxiv.org/content/10.1101/2021.06.14.448106v1.abstract). 
 
 `data/` --> Contains the data used in the tutorials. Data created during the tutorial will be output into this folder. 
