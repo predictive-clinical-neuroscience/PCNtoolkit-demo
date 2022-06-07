@@ -6,7 +6,7 @@ For HCP data you must have an account at ConnectomeDB and agree to the [Open Acc
 
 This folder contains 5 python notebooks: 
 
-1. BLR_normativemodel_protocol.ipynb --> contains the code that appears in the Procedure section of Rutherford et al. 2021, *The Normative Modeling Framework for Computational Psychiatry*. Accepted at Nature Protocols. Preprint available via [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.08.455583v1). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tutorials/BLR_protocol/BLR_normativemodel_protocol.ipynb)
+1. BLR_normativemodel_protocol.ipynb --> contains the code that appears in the Procedure section of Rutherford et al. 2022, *The Normative Modeling Framework for Computational Psychiatry*. [Nature Protocols](https://www.nature.com/articles/s41596-022-00696-5). Preprint available via [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.08.455583v2). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tutorials/BLR_protocol/BLR_normativemodel_protocol.ipynb)
 
 2. visualizations.ipynb --> contains the code for creating various visualizations of normative modeling output metrics from Figure 4 of Rutherford et al. (2021). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/PCNtoolkit-demo/blob/main/tutorials/BLR_protocol/visualizations.ipynb)
 
