@@ -1,6 +1,6 @@
 pandas
-numpy==1.21
+numpy
 matplotlib
 sklearn
 joypy
-pcntoolkit==0.27
+pcntoolkit==0.28
