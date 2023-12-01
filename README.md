@@ -18,6 +18,9 @@ Please adhere to the citation guidelines availabe in each tutorial directory.
 * [CPC_2021](https://github.com/saigerutherford/CPC_ML_tutorial): Computational Psychiatry Course 2021 tutorial using Bayesian Linear Regression (BLR)
 * [BLR_protocol](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials/BLR_protocol): The Normative Modeling Framework for Computational Psychiatry. Rutherford et al. 2022. [Nature Protocols](https://www.nature.com/articles/s41596-022-00696-5).
 * [HBR_FCON](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials/HBR_FCON): A tutorial on Hierarchical Bayesian Linear Regression using FCON data (many sites).
+* [Longitudi
+* [HBR_SHASH](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials/HBR_SHASH): SHASH mdoel extension of HBR.
+* [Long_NM](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials/Long_NM): Tutorial for normative modelling on longitudinal data.
 * For a tutorial on GAMLSS see this [repository](https://github.com/dinga92/gamlss_normative_paper) and [preprint](https://www.biorxiv.org/content/10.1101/2021.06.14.448106v1.abstract). 
 
 `data/` --> Contains the data used in the tutorials. Data created during the tutorial will be output into this folder. 
