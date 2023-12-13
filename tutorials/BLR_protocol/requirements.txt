@@ -3,4 +3,4 @@ numpy
 matplotlib
 sklearn
 joypy
-pcntoolkit==0.28
+pcntoolkit
