@@ -1,6 +1,7 @@
 pandas
 numpy
 matplotlib
-sklearn
+#sklearn
+scikit-learn
 joypy
 pcntoolkit
