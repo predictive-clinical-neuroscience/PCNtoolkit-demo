@@ -20,6 +20,7 @@ Please adhere to the citation guidelines availabe in each tutorial directory.
 * [HBR_FCON](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials/HBR_FCON): A tutorial on Hierarchical Bayesian Linear Regression using FCON data (many sites).
 * [HBR_SHASH](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials/HBR_SHASH): SHASH mdoel extension of HBR.
 * [Long_NM](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials/Long_NM): Tutorial for normative modelling on longitudinal data.
+* [SiteEffects_NM](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials/SiteEffects_NM): Tutorial for using normative modelling for site effect correction.
 * For a tutorial on GAMLSS see this [repository](https://github.com/dinga92/gamlss_normative_paper) and [preprint](https://www.biorxiv.org/content/10.1101/2021.06.14.448106v1.abstract). 
 
 `data/` --> Contains the data used in the tutorials. Data created during the tutorial will be output into this folder. 
