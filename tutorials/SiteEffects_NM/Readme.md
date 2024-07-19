@@ -10,6 +10,10 @@ We will cover three different cases:
 # Tutorial:
 You can open this tutorial here:  
 
+<a target="_blank" href="https://colab.research.google.com/github/likeajumprope/PCNtoolkit-demo/blob/site_effect_tutorial/tutorials/SiteEffects_NM/HBR_site_effects_normative_modelling.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Further reading: 
 You can learn more about batch effects here:
 
