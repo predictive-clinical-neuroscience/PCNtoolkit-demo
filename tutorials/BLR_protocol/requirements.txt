@@ -3,5 +3,5 @@ pandas==1.5.3
 numpy
 matplotlib
 scikit-learn
-joypyi
+joypy
 seaborn
